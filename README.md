@@ -6,6 +6,10 @@ ExamBuddy AI is designed to bridge the gap between **student learning** and **te
 
 ---
 
+<img src="Market analysis.png" width="100%" height="800" style="border-radius:10px;" alt="Raguram's Photo" />
+
+---
+
 # 📊 Competitor Comparison
 
 | Product            | Region | Key Strengths                                                              | Limitations                                                      |
