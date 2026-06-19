@@ -18,6 +18,10 @@ ExamBuddy AI is designed to bridge the gap between **student learning** and **te
 
 ---
 
+<img src="Competetor .1.png" width="100%" height="500" style="border-radius:10px;" alt="Raguram's Photo" />
+
+---
+
 # 🎯 Where ExamBuddy AI Differs
 
 ## 🎙 Voice-First AI Mentor
